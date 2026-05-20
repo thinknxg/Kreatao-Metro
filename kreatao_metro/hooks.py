@@ -213,3 +213,6 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"kreatao_metro.auth.validate"
 # ]
+report_list = [
+    "kreatao_metro/accounts/report/trial_balance_enhanced/trial_balance_enhanced.json"
+]
